@@ -1,30 +1,18 @@
 {
-  "expenses": [
-   {
-     "id": 1,
-     "expenseDate": 09-09-2019,
-     "expenseTitle": "Wydatek 1",
-     "amount": 23
-   },
-   {
-     "id": 2,
-     "expenseDate": 10-09-2019,
-     "expenseTitle": "Wydatek 2",
-     "amount": 3.5
-   },
-   {
-     "id": 3,
-     "expenseDate": 12-09-2019,
-     "expenseTitle": "Wydatek 3",
-     "amount": 12
-   },
-   {
-     "id": 4,
-     "expenseDate": 15-09-2019,
-     "expenseTitle": "Wydatek 4",
-     "amount": 205
-   }
- ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
   "comments": [
     {
       "id": 1,
