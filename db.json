@@ -1,4 +1,5 @@
 [
+  "expenses": [
   {
     "id": 1,
     "expenseDate": "09-09-2019",
@@ -22,5 +23,5 @@
     "expenseDate": "15-09-2019",
     "expenseTitle": "Wydatek 4",
     "amount": 205
-  }
+  }]
 ]
