@@ -29,17 +29,20 @@
     {
       "id": 1,
       "expenseTitle": "Post 1",
-      "amount": 23 
+      "amount": 23,
+      "expenseDate": "2019-09-10"
     },
     {
       "id": 2,
       "expenseTitle": "Post 2",
-      "amount": 12
+      "amount": 12,
+      "expenseDate": "2019-09-11"
     },
     {
       "id": 3,
       "expenseTitle": "Post 3",
-      "amount": 1
+      "amount": 1,
+      "expenseDate": "2019-09-12"
     }
   ],
   "profile": {
